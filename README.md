@@ -4,7 +4,7 @@
 
 ![digital_image_GUI](https://cdn.jsdelivr.net/gh/kennems/blog-image/digital_image_GUI.gif)
 
-本项目源代码和报告均已开源：
+本项目源代码和报告均在仓库中。
 
 ## 项目简介
 
