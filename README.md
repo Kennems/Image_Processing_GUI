@@ -2,7 +2,7 @@
 
 ## GUI界面：
 
-![image-20240627204028014](https://cdn.jsdelivr.net/gh/kennems/blog-image/image-20240627204028014.png)
+![digital_image_GUI](https://cdn.jsdelivr.net/gh/kennems/blog-image/digital_image_GUI.gif)
 
 本项目源代码和报告均已开源：
 
