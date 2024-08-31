@@ -1,4 +1,3 @@
-%电子2101周冠 数字信号处理大作业
 classdef Image_Processing_GUI < matlab.apps.AppBase
     
     % 与应用程序组件对应的属性
